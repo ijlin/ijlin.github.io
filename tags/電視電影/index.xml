@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電視電影 on Jeff的部落格</title>
+    <link>https://ijlin.github.io/tags/%E9%9B%BB%E8%A6%96%E9%9B%BB%E5%BD%B1/</link>
+    <description>Recent content in 電視電影 on Jeff的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 16 Jul 2022 23:05:47 +0800</lastBuildDate><atom:link href="https://ijlin.github.io/tags/%E9%9B%BB%E8%A6%96%E9%9B%BB%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇測試文</title>
+      <link>https://ijlin.github.io/blog/test/</link>
+      <pubDate>Sat, 16 Jul 2022 23:05:47 +0800</pubDate>
+      
+      <guid>https://ijlin.github.io/blog/test/</guid>
+      <description>這個圖來自戲劇《華燈初上》，很適合做為變態心理學的開場白 ^_^
+測試 youtube 的影片 </description>
+    </item>
+    
+  </channel>
+</rss>
