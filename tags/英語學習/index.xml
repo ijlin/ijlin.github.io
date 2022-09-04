@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>心得 on Jeff的部落格</title>
-    <link>https://ijlin.github.io/categories/%E5%BF%83%E5%BE%97/</link>
-    <description>Recent content in 心得 on Jeff的部落格</description>
+    <title>英語學習 on Jeff的部落格</title>
+    <link>https://ijlin.github.io/tags/%E8%8B%B1%E8%AA%9E%E5%AD%B8%E7%BF%92/</link>
+    <description>Recent content in 英語學習 on Jeff的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 04 Sep 2022 18:57:00 +0800</lastBuildDate><atom:link href="https://ijlin.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 18:57:00 +0800</lastBuildDate><atom:link href="https://ijlin.github.io/tags/%E8%8B%B1%E8%AA%9E%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用Otter.ai來增進如Cambly等線上英語學習的效率</title>
       <link>https://ijlin.github.io/blog/learning-english-with-otter/</link>
@@ -15,17 +15,6 @@
       <guid>https://ijlin.github.io/blog/learning-english-with-otter/</guid>
       <description>現在網路上有許多可以找到外籍老師和我們實際練習英語對話的平台，譬如說 Cambly 就很不錯（對了，如果你還沒用過它，按我的這個「推薦連結」來註冊帳號就可以獲得10分鐘的免費線上一對一英語會話試用時間喔~）。甚至 Cambly 每一次與外師線上英語對話後都會錄影下來，讓你可以做複習，但若對話當時沒有記下來外師提醒你的事項，譬如說某一個發音或語法的錯誤，那事後要從影片前後搜尋去找到它會花掉不少時間&amp;hellip;。這邊我要來和大家分享一個可以增進事後複習效率的方法！
 改善的方法就是利用 Otter.ai，這個以人工智慧（AI）來將錄下的語音自動辨識成英文逐字稿的網路服務，它還提供一個檢視逐字稿的操作介面，可以很方便地搜尋特定文字及做筆記標註。Otter.ai 可以在瀏覽器（如：Windows 和 Mac 系統上的 Google Chrome 瀏覽器）上使用，或者於手機安裝 Otter.</description>
-    </item>
-    
-    <item>
-      <title>我的第一篇測試文</title>
-      <link>https://ijlin.github.io/blog/test/</link>
-      <pubDate>Sat, 16 Jul 2022 23:05:47 +0800</pubDate>
-      
-      <guid>https://ijlin.github.io/blog/test/</guid>
-      <description>這句話來自戲劇《華燈初上》，很適合做為變態心理學的開場白 ^_^
-「這世界上每個人都有病，什麼叫正常？我們不要自欺欺人了。」（Aiko）
-劇中好聽的主題曲&amp;quot;雨夜花&amp;quot;（影片來自youtube） </description>
     </item>
     
   </channel>
